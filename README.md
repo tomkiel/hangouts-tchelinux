@@ -43,7 +43,7 @@ O grupo promove também a caridade, uma vez que participantes de seus eventos s�
 - Suporte a novos usuários de Software Livre
 - Incentivo à caridade
 
-**Links úteis**
+**Links úteis**  
 Site: [tchelinux.org](https://tchelinux.org)  
 Lista de discussão: [Tchelinux](https://groups.google.com/forum/#!forum/tchelinux)  
 Canal de IRC: [#tchelinux](http://freenode.net/)  
