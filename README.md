@@ -1,33 +1,33 @@
-### Pautas para os hangouts do grupo Tchelinux
+## Pautas para os hangouts do grupo Tchelinux
 
-#### O que é?
+### O que é?
 
-Em encontros mensais, membros do grupo [Tchelinux](http://tchelinux.org "Site Tchelinux") realizam um encontro através da plataforma [hangouts](https://hangouts.google.com/?hl=pt-BR "Google Hangouts"). Esses encontros são organizados através das pautas sugeridas neste repositório. 
+Em encontros mensais, membros do grupo [Tchelinux](http://tchelinux.org "Site Tchelinux") realizam um bate-papo através da plataforma [hangouts](https://hangouts.google.com/?hl=pt-BR "Google Hangouts"). Esses encontros são organizados através das pautas sugeridas neste repositório. 
 A principal função do encontro é informar os resultados e curiosidades dos eventos realizados no periodo. Também entra na conversa o assunto pontual presente na pauta. 
 Como é totalmente colaborativa, incentivamos a submissão de pautas e a disponibilidade para participar das conversas.
 
-Os vídeos resultantes das conversas serão disponibilizados no canal Oficial no Youtube: [Tchelinux]()
+Os vídeos resultantes das conversas serão disponibilizados no canal Oficial no Youtube: [Tchelinux](https://www.youtube.com/channel/UChibAixACm-r5NZVgr53QbA)
  
-#### Objetivo?
+### Objetivo?
 
 Temos como objetivo principal, aproximar os envolvidos com o grupo, promovendo conversas e criando um ambiente saudável de interação. Usando da popularidade do YouTube, visamos alcançar mais e mais pessoas, despertando a curiosidade e o interesse por tecnologia e Software Livre.
 
-#### Onde encontrar os vídeos?
+### Onde encontrar os vídeos?
 
 Pretendemos realizar as conversas sempre ao vivo, através do canal oficial no [YouTube]() e posteriormente disponibilizar o conteúdo para livre acesso na mesma plataforma. 
 
 
-#### Equipe
+### Equipe
 
-Host: [Régis Tomkiel]()  
+Host: [Régis Tomkiel](https://www.youtube.com/channel/UC5Zz7kecrmtYZSKCS79_-Wg)  
 
-Revisão de pautas: [Régis Tomkiel]()  
+Revisão de pautas: [Régis Tomkiel](https://blog.doseextra.com/author/regis)  
 
-Administrador do Canal no YouTube: [Régis Tomkiel]()  
+Administrador do Canal no YouTube: [Régis Tomkiel](https://blog.doseextra.com/author/regis)  
 
 
 
-#### O que é o Tchelinux?
+### O que é o Tchelinux?
 
 **Quem somos?**
 
@@ -48,5 +48,5 @@ Site: [tchelinux.org](https://tchelinux.org)
 Lista de discussão: [Tchelinux](https://groups.google.com/forum/#!forum/tchelinux)  
 Canal de IRC: [#tchelinux](http://freenode.net/)  
 Facebook: [/Tchelinux](https://facebook.com/tchelinux)  
-YouTube: []()
+YouTube: [tchelinux](https://www.youtube.com/channel/UChibAixACm-r5NZVgr53QbA)
 Twitter: [@tchelinux](https://twitter.com/tchelinux)  
